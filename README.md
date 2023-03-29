@@ -1,2 +1,1 @@
-# QuickBooks-Desktop-Library
-.NET QuickBooks Desktop Library using QBFC 
+Please see the README.doc file
