@@ -1,5 +1,6 @@
 
 This Library is a sample of a .Net library to interface with QuickBooks Desktop to Read, Save and/or Modify the following objects:
+
   •	Inventory Items
   •	Non-Inventory Items
   •	Customers
