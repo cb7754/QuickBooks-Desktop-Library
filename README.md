@@ -21,4 +21,5 @@ The library is programmed in C# and use QuickBooks Foundation Class (QBFC) to ac
 The QBFC used in this version is 16.0 64bit. With this version you can access up to QuickBooks Desktop 23.0
 
 Please see the word document README.doc for a detailed explanation of QBooksLib
+If you need another object send me an email.
 
