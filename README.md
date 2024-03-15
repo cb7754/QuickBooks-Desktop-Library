@@ -1,5 +1,5 @@
 
-This Library is a sample of a .Net library to interface with QuickBooks Desktop to Read, Save and/or Modify the following objects:
+This Library is a sample of a .Net library to interface with QuickBooks Desktop using QuickBooks SDK QBFC, to Read, Save and/or Modify the following objects:
 
   •	Inventory Items
   •	Non-Inventory Items
