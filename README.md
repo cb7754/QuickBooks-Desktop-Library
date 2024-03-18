@@ -21,6 +21,8 @@ This Library is a sample of a .Net library to interface with QuickBooks Desktop 
   •	Charges
   •	CreditCardCharges
   •	CreditCardCredits
+  • DataExtensions
+  
 
   
 The library is programmed in C# and use QuickBooks Foundation Class (QBFC) to access QuickBooks.
