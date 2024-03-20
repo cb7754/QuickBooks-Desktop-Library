@@ -28,6 +28,6 @@ This Library is a sample of a .Net library to interface with QuickBooks Desktop 
 The library is programmed in C# and use QuickBooks Foundation Class (QBFC) to access QuickBooks.
 The QBFC used in this version is 16.0 64bit. With this version you can access up to QuickBooks Desktop 23.0
 
-Please see the word document QbooksLib DescriptionV2.2.docm for a detailed explanation of QBooksLib
+Please see the word document QbooksLib DescriptionV2.2.docx for a detailed explanation of QBooksLib
 If you need another object send me an email.
 
